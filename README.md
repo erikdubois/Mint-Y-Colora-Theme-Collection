@@ -21,7 +21,7 @@ http://erikdubois.be/category/themes/mint-y-based-themes/
 	extract it,
 	check your cinnamon version
 	select the appropriate themes
-	copy/paste them to the hidden folder **.themes** in your home directory.
+	copy/paste them to the hidden folder .themes in your home directory.
 
 
 # Mint-Y-Colora Themes on Linux Mint 18
