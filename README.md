@@ -153,7 +153,7 @@ All themes are sorted alphabetically.
 
 ##This is the Mint-Y-Moka theme.
 
-## Mint-Y-Dark-MOka
+## Mint-Y-Dark-Moka
 
 ![Screenshots](http://i.imgur.com/UgRHgxo.jpg)
 
@@ -239,6 +239,7 @@ Started with Sardi Ghost Flexible script to change the colour, then conky aureol
 
 #Mint-Y-Colora Themes on Linux Mint 18.1
 
+## Mint-Y-Dark-Polo
 
 ![Screenshots](http://i.imgur.com/qP22JuQ.jpg)
 
