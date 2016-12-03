@@ -248,7 +248,7 @@ Started with Sardi Ghost Flexible script to change the colour, then conky aureol
 
 
 # F  A  Q
---------------------
+
 
 #What can you do if the script does not execute?
 
