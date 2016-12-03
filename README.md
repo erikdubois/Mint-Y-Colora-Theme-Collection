@@ -232,6 +232,11 @@ Started with Sardi Ghost Flexible script to change the colour, then conky aureol
 
 
 
+
+
+
+
+
 #Mint-Y-Colora Themes on Linux Mint 18.1
 
 
