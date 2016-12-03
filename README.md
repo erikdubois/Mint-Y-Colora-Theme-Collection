@@ -36,6 +36,31 @@ Cinnamon 3.2
 	theme-mint-y-colora-collection-3.2-vx.sh
 
 
+
+
+
+
+
+#Mint-Y-Colora Themes on Linux Mint 18.1
+
+## Mint-Y-Dark-Polo
+
+![Screenshots](http://i.imgur.com/qP22JuQ.jpg)
+
+
+## Mint-Y-Dark-Watusi
+
+![Screenshots](http://i.imgur.com/9KiieF6.jpg)
+
+
+
+
+
+
+
+
+
+
 # Mint-Y-Colora Themes on Linux Mint 18
 
 
@@ -232,23 +257,6 @@ All themes are sorted alphabetically.
 ![Screenshots](http://i.imgur.com/nZsWOAQ.jpg)
 
 
-
-
-
-
-
-
-
-#Mint-Y-Colora Themes on Linux Mint 18.1
-
-## Mint-Y-Dark-Polo
-
-![Screenshots](http://i.imgur.com/qP22JuQ.jpg)
-
-
-## Mint-Y-Dark-Watusi
-
-![Screenshots](http://i.imgur.com/BV54k9A.jpg)
 
 
 
