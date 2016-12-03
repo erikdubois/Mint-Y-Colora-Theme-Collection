@@ -1,6 +1,6 @@
-# Arc Theme Colora Collection
+# Mint-Y-Colora Theme Collection
 
-Since the arc theme is constantly in evolution and the same goes for cinnamon and linux mint, I made this github to make a division between cinnamon versions.
+Since the Mint-Y theme is constantly in evolution and the same goes for cinnamon and linux mint, I made this github to make a division between cinnamon versions.
 
 Linux Mint 18 has standard cinnamon 3.0+ and Linux Mint 18.1 has standard version 3.2+
 
@@ -14,19 +14,19 @@ But the best thing to do always, is to run the scripts yourself on your personal
 More information how to do just that, can be found here. 
 
 
-http://erikdubois.be/category/themes/arc-based-themes/
+http://erikdubois.be/category/themes/mint-y-based-themes/
 
 
 
-# Arc Themes on Linux Mint 18
+# Mint-Y-Colora Themes on Linux Mint 18
 
 
 
 
-# Arc Themes on Linux Mint 18.1
+# Mint-Y-Colora Themes on Linux Mint 18.1
 
 
-![Screenshots](http://i.imgur.com/R1UBRl6.jpg)
+![Screenshots](to do)
 
 
 # F  A  Q
