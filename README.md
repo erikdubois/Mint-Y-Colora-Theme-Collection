@@ -1,6 +1,6 @@
 # Mint-Y-Colora Theme Collection
 
-Since the Mint-Y theme is constantly in evolution and the same goes for cinnamon and linux mint, I made this github to make a division between cinnamon versions.
+Since the Mint-Y theme is constantly in evolution and the same goes for Cinnamon and Linux Mint, I made this github to make a division between cinnamon versions.
 
 	Linux Mint 18 has standard cinnamon 3.0+
  	Linux Mint 18.1 has standard version 3.2+
@@ -10,16 +10,18 @@ You can find your personal cinnamon version when you type the following code in 
 
     cinnamon --version
 
-But the best thing to do always, is to run the scripts yourself on your personal setup. This will always be the best option.
-
-More information how to do just that, can be found here. 
-
+But the best thing to do always, is to run the scripts yourself on your personal setup. This will always be the best option. More information how to do just that, can be found here. 
 
 http://erikdubois.be/category/themes/mint-y-based-themes/
 
+
 # Just want to download the themes
 
-Download this github, extract it, check your cinnamon version and select the appropriate themes and copy/paste them to the hidden folder .themes in your home directory.
+	Download this github,
+	extract it,
+	check your cinnamon version
+	select the appropriate themes
+	copy/paste them to the hidden folder **.themes** in your home directory.
 
 
 # Mint-Y-Colora Themes on Linux Mint 18
