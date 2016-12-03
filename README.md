@@ -21,6 +21,211 @@ http://erikdubois.be/category/themes/mint-y-based-themes/
 # Mint-Y-Colora Themes on Linux Mint 18
 
 
+All themes are sorted alphabetically.
+
+
+# This is the Mint-Y-Alu theme.
+
+## Mint-Y-Dark-Alu
+
+![Screenshots](http://i.imgur.com/rRgxvgE.jpg)
+
+## Mint-Y-Alu
+
+![Screenshots](http://i.imgur.com/vpWBaol.jpg)
+
+## Mint-Y-Darker-Alu
+
+![Screenshots](http://i.imgur.com/Whth7bW.png)
+
+
+
+# This is the Mint-Y-Arc theme.
+
+## Mint-Y-Dark-Arc
+
+![Screenshots](http://i.imgur.com/xStA6XS.jpg)
+
+## Mint-Y-Arc
+
+![Screenshots](http://i.imgur.com/6ii1UrF.jpg)
+
+## Mint-Y-Darker-Arc
+
+![Screenshots](http://i.imgur.com/tRFkqVO.jpg)
+
+
+
+# This is the Mint-Y-Arch theme.
+
+## Mint-Y-Dark-Arch
+
+![Screenshots](http://i.imgur.com/gPcjb5e.jpg)
+
+## Mint-Y-Arch
+
+![Screenshots](http://i.imgur.com/IelYXod.jpg)
+
+## Mint-Y-Darker-Arch
+
+![Screenshots](http://i.imgur.com/o1XnG0M.png)
+
+
+
+# This is the Mint-Y-Crimson theme.
+
+## Mint-Y-Dark-Crimson
+
+![Screenshots](http://i.imgur.com/NCvY4C7.jpg)
+
+
+
+
+# This is the Mint-Y-Evopop theme.
+
+## Mint-Y-Dark-Evopop
+
+![Screenshots](http://i.imgur.com/f00lMXN.jpg)
+
+
+
+
+# This is the Mint-Y-Faba theme.
+
+## Mint-Y-Dark-Faba
+
+![Screenshots](http://i.imgur.com/lQs3os3.jpg)
+
+
+
+# This is the Mint-Y-Fire theme.
+
+## Mint-Y-Dark-Fire
+
+![Screenshots](http://i.imgur.com/iDTAVCp.jpg)
+
+## Mint-Y-Fire
+
+![Screenshots](http://i.imgur.com/S7rxV2Q.png)
+
+## Mint-Y-Darker-Fire
+
+![Screenshots](http://i.imgur.com/5PuBay9.png)
+
+
+
+# This is the Mint-Y-Havelock theme.
+
+## Mint-Y-Dark-Havelock
+
+![Screenshots](http://i.imgur.com/TOYWMRB.jpg)
+
+
+
+# This is the Mint-Y-Hibiscus theme.
+
+## Mint-Y-Dark-Hibiscus
+
+![Screenshots](http://i.imgur.com/31PANoq.jpg)
+
+
+
+
+# This is the Mint-Y-Lightning theme.
+
+## Mint-Y-Dark-Lightning
+
+![Screenshots](http://i.imgur.com/iknj8bS.jpg)
+
+## Mint-Y-Lightning
+
+![Screenshots](http://i.imgur.com/XQDzq97.jpg)
+
+## Mint-Y-Darker-Lightning
+
+![Screenshots](http://i.imgur.com/nZzpm2Q.jpg)
+
+
+
+# This is the Mint-Y-Moka theme.
+
+## Mint-Y-Dark-MOka
+
+![Screenshots](http://i.imgur.com/UgRHgxo.jpg)
+
+
+
+
+# This is the Mint-Y-Matrix theme.
+
+## Mint-Y-Dark-Matrix
+
+![Screenshots](http://i.imgur.com/I2V1JzQ.jpg)
+
+
+
+
+# This is the Mint-Y-Oranchelo theme.
+
+## Mint-Y-Dark-Oranchelo
+
+![Screenshots](http://i.imgur.com/lOtWOha.jpg)
+
+
+
+
+# This is the Mint-Y-Paper theme.
+
+## Mint-Y-Dark-Paper
+
+![Screenshots](http://i.imgur.com/0sUmwY7.jpg)
+
+
+
+# This is the Mint-Y-Polo theme.
+
+## Mint-Y-Dark-Polo
+
+![Screenshots](http://i.imgur.com/fHOkfbJ.jpg)
+
+
+
+
+# This is the Mint-Y-Sidecar theme.
+
+Started with Sardi Ghost Flexible script to change the colour, then conky aureola and mint-y theme.
+
+## Mint-Y-Dark-Sidecar
+
+![Screenshots](http://i.imgur.com/MELNDGc.jpg)
+
+
+
+
+# This is the Mint-Y-Sun theme.
+
+## Mint-Y-Dark-Sun
+
+![Screenshots](http://i.imgur.com/xi11Z70.jpg)
+
+## Mint-Y-Sun
+
+![Screenshots](http://i.imgur.com/JeKQ9fZ.png)
+
+## Mint-Y-Darker-Sun
+
+![Screenshots](http://i.imgur.com/1tHgHXi.jpg)
+
+
+
+
+# This is the Mint-Y-Watusi theme.
+
+## Mint-Y-Dark-Watusi
+
+![Screenshots](http://i.imgur.com/nZsWOAQ.jpg)
+
+
 
 
 # Mint-Y-Colora Themes on Linux Mint 18.1
