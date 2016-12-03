@@ -23,6 +23,18 @@ http://erikdubois.be/category/themes/mint-y-based-themes/
 	select the appropriate themes
 	copy/paste them to the hidden folder .themes in your home directory.
 
+Or
+
+you can use one of the two scripts to install them via terminal
+
+Cinnamon 3.0
+
+	theme-mint-y-colora-collection-3.0-vx.sh
+
+Cinnamon 3.2 
+
+	theme-mint-y-colora-collection-3.2-vx.sh
+
 
 # Mint-Y-Colora Themes on Linux Mint 18
 
