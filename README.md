@@ -2,7 +2,8 @@
 
 Since the Mint-Y theme is constantly in evolution and the same goes for cinnamon and linux mint, I made this github to make a division between cinnamon versions.
 
-Linux Mint 18 has standard cinnamon 3.0+ and Linux Mint 18.1 has standard version 3.2+
+	Linux Mint 18 has standard cinnamon 3.0+
+ 	Linux Mint 18.1 has standard version 3.2+
 
 
 You can find your personal cinnamon version when you type the following code in the terminal
@@ -16,6 +17,9 @@ More information how to do just that, can be found here.
 
 http://erikdubois.be/category/themes/mint-y-based-themes/
 
+# Just want to download the themes
+
+Download this github, extract it, check your cinnamon version and select the appropriate themes and copy/paste them to the hidden folder .themes in your home directory.
 
 
 # Mint-Y-Colora Themes on Linux Mint 18
@@ -24,7 +28,7 @@ http://erikdubois.be/category/themes/mint-y-based-themes/
 All themes are sorted alphabetically.
 
 
-# This is the Mint-Y-Alu theme.
+## This is the Mint-Y-Alu theme.
 
 ## Mint-Y-Dark-Alu
 
@@ -40,7 +44,7 @@ All themes are sorted alphabetically.
 
 
 
-# This is the Mint-Y-Arc theme.
+## This is the Mint-Y-Arc theme.
 
 ## Mint-Y-Dark-Arc
 
@@ -56,7 +60,7 @@ All themes are sorted alphabetically.
 
 
 
-# This is the Mint-Y-Arch theme.
+##This is the Mint-Y-Arch theme.
 
 ## Mint-Y-Dark-Arch
 
@@ -72,7 +76,7 @@ All themes are sorted alphabetically.
 
 
 
-# This is the Mint-Y-Crimson theme.
+##This is the Mint-Y-Crimson theme.
 
 ## Mint-Y-Dark-Crimson
 
@@ -81,7 +85,7 @@ All themes are sorted alphabetically.
 
 
 
-# This is the Mint-Y-Evopop theme.
+##This is the Mint-Y-Evopop theme.
 
 ## Mint-Y-Dark-Evopop
 
@@ -90,7 +94,7 @@ All themes are sorted alphabetically.
 
 
 
-# This is the Mint-Y-Faba theme.
+##This is the Mint-Y-Faba theme.
 
 ## Mint-Y-Dark-Faba
 
@@ -98,7 +102,7 @@ All themes are sorted alphabetically.
 
 
 
-# This is the Mint-Y-Fire theme.
+##This is the Mint-Y-Fire theme.
 
 ## Mint-Y-Dark-Fire
 
@@ -114,7 +118,7 @@ All themes are sorted alphabetically.
 
 
 
-# This is the Mint-Y-Havelock theme.
+##This is the Mint-Y-Havelock theme.
 
 ## Mint-Y-Dark-Havelock
 
@@ -122,7 +126,7 @@ All themes are sorted alphabetically.
 
 
 
-# This is the Mint-Y-Hibiscus theme.
+##This is the Mint-Y-Hibiscus theme.
 
 ## Mint-Y-Dark-Hibiscus
 
@@ -131,7 +135,7 @@ All themes are sorted alphabetically.
 
 
 
-# This is the Mint-Y-Lightning theme.
+##This is the Mint-Y-Lightning theme.
 
 ## Mint-Y-Dark-Lightning
 
@@ -147,7 +151,7 @@ All themes are sorted alphabetically.
 
 
 
-# This is the Mint-Y-Moka theme.
+##This is the Mint-Y-Moka theme.
 
 ## Mint-Y-Dark-MOka
 
@@ -156,7 +160,7 @@ All themes are sorted alphabetically.
 
 
 
-# This is the Mint-Y-Matrix theme.
+##This is the Mint-Y-Matrix theme.
 
 ## Mint-Y-Dark-Matrix
 
@@ -165,7 +169,7 @@ All themes are sorted alphabetically.
 
 
 
-# This is the Mint-Y-Oranchelo theme.
+##This is the Mint-Y-Oranchelo theme.
 
 ## Mint-Y-Dark-Oranchelo
 
@@ -174,7 +178,7 @@ All themes are sorted alphabetically.
 
 
 
-# This is the Mint-Y-Paper theme.
+##This is the Mint-Y-Paper theme.
 
 ## Mint-Y-Dark-Paper
 
@@ -182,7 +186,7 @@ All themes are sorted alphabetically.
 
 
 
-# This is the Mint-Y-Polo theme.
+##This is the Mint-Y-Polo theme.
 
 ## Mint-Y-Dark-Polo
 
@@ -191,7 +195,7 @@ All themes are sorted alphabetically.
 
 
 
-# This is the Mint-Y-Sidecar theme.
+##This is the Mint-Y-Sidecar theme.
 
 Started with Sardi Ghost Flexible script to change the colour, then conky aureola and mint-y theme.
 
@@ -202,7 +206,7 @@ Started with Sardi Ghost Flexible script to change the colour, then conky aureol
 
 
 
-# This is the Mint-Y-Sun theme.
+##This is the Mint-Y-Sun theme.
 
 ## Mint-Y-Dark-Sun
 
@@ -219,7 +223,7 @@ Started with Sardi Ghost Flexible script to change the colour, then conky aureol
 
 
 
-# This is the Mint-Y-Watusi theme.
+##This is the Mint-Y-Watusi theme.
 
 ## Mint-Y-Dark-Watusi
 
@@ -228,7 +232,7 @@ Started with Sardi Ghost Flexible script to change the colour, then conky aureol
 
 
 
-# Mint-Y-Colora Themes on Linux Mint 18.1
+##Mint-Y-Colora Themes on Linux Mint 18.1
 
 
 ![Screenshots](to do)
