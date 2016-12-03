@@ -246,7 +246,9 @@ All themes are sorted alphabetically.
 ![Screenshots](http://i.imgur.com/qP22JuQ.jpg)
 
 
+## Mint-Y-Dark-Watusi
 
+![Screenshots](http://i.imgur.com/BV54k9A.jpg)
 
 
 
