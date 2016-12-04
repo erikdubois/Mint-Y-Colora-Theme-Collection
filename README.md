@@ -36,7 +36,8 @@ Cinnamon 3.2
 	theme-mint-y-colora-collection-3.2-vx.sh
 
 
-
+You will find the themes in the hidden folder .themes in your home directory.
+Select them with your theme manager.
 
 
 
