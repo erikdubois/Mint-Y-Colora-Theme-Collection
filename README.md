@@ -10,7 +10,7 @@ You can find your personal cinnamon version when you type the following code in 
 
     cinnamon --version
 
-But the best thing to do always, is to run the scripts yourself on your personal setup. This will always be the best option. More information how to do just that, can be found here. 
+But the best thing to do always, is to run the scripts from https://github.com/erikdubois/Mint-Y-Colora-Theme yourself on your personal setup. This will always be the best option. More information how to do just that, can be found here. 
 
 http://erikdubois.be/category/themes/mint-y-based-themes/
 
@@ -36,7 +36,8 @@ Cinnamon 3.2
 	theme-mint-y-colora-collection-3.2-vx.sh
 
 
-
+You will find the themes in the hidden folder .themes in your home directory.
+Select them with your theme manager.
 
 
 
@@ -196,6 +197,13 @@ All themes are sorted alphabetically.
 
 ![Screenshots](http://i.imgur.com/UgRHgxo.jpg)
 
+
+
+##This is the Mint-Y-Majestic theme.
+
+## Mint-Y-Dark-Majestic
+
+![Screenshots](http://i.imgur.com/boHEDcW.jpg)
 
 
 
