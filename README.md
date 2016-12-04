@@ -66,6 +66,11 @@ Select them with your theme manager.
 ![Screenshots](http://i.imgur.com/sB0yet3.jpg)
 
 
+## Mint-Y-Dark-Orange
+
+![Screenshots](http://i.imgur.com/29YcVrk.jpg)
+
+
 ## Mint-Y-Dark-Polo
 
 ![Screenshots](http://i.imgur.com/qP22JuQ.jpg)
