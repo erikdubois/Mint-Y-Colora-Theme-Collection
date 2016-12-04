@@ -54,6 +54,11 @@ Select them with your theme manager.
 ![Screenshots](http://i.imgur.com/80wFHAz.jpg)
 
 
+## Mint-Y-Dark-Majestic
+
+![Screenshots](http://i.imgur.com/sB0yet3.jpg)
+
+
 ## Mint-Y-Dark-Polo
 
 ![Screenshots](http://i.imgur.com/qP22JuQ.jpg)
@@ -62,9 +67,6 @@ Select them with your theme manager.
 ## Mint-Y-Dark-Watusi
 
 ![Screenshots](http://i.imgur.com/9KiieF6.jpg)
-
-
-
 
 
 
