@@ -198,6 +198,13 @@ All themes are sorted alphabetically.
 
 
 
+##This is the Mint-Y-Majestic theme.
+
+## Mint-Y-Dark-Majestic
+
+![Screenshots](http://i.imgur.com/boHEDcW.jpg)
+
+
 
 ##This is the Mint-Y-Matrix theme.
 
