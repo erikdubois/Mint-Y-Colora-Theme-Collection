@@ -44,6 +44,13 @@ Select them with your theme manager.
 
 #Mint-Y-Colora Themes on Linux Mint 18.1
 
+
+
+## Mint-Y-Dark-Arc
+
+![Screenshots](http://i.imgur.com/ipI2uu5.jpg)
+
+
 ## Mint-Y-Dark-Crimson
 
 ![Screenshots](http://i.imgur.com/fZzPTE9.jpg)
