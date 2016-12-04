@@ -44,6 +44,11 @@ Select them with your theme manager.
 
 #Mint-Y-Colora Themes on Linux Mint 18.1
 
+## Mint-Y-Dark-Froly
+
+![Screenshots](http://i.imgur.com/80wFHAz.jpg)
+
+
 ## Mint-Y-Dark-Polo
 
 ![Screenshots](http://i.imgur.com/qP22JuQ.jpg)
