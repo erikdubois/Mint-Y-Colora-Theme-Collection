@@ -10,7 +10,7 @@ You can find your personal cinnamon version when you type the following code in 
 
     cinnamon --version
 
-But the best thing to do always, is to run the scripts yourself on your personal setup. This will always be the best option. More information how to do just that, can be found here. 
+But the best thing to do always, is to run the scripts from https://github.com/erikdubois/Mint-Y-Colora-Theme yourself on your personal setup. This will always be the best option. More information how to do just that, can be found here. 
 
 http://erikdubois.be/category/themes/mint-y-based-themes/
 
