@@ -293,7 +293,21 @@ All themes are sorted alphabetically.
 
 ![Screenshots](http://i.imgur.com/nZsWOAQ.jpg)
 
+# Remember
 
+If you want the icons on the toolbar to be white like I do.
+Go to the cinnamon folder and change the cinnnamon.css file to this code around line 455.
+
+    .system-status-icon {
+    icon-size: 16px;
+    padding: 0 1px;
+    color: white; }
+
+and line 1327 to this code
+
+    .applet-label {
+    font-weight: bold;
+    color: rgba(255, 255, 255, 1); }
 
 
 # F  A  Q
