@@ -454,7 +454,8 @@ StScrollBar {
 
 .system-status-icon {
   icon-size: 16px;
-  padding: 0 1px; }
+  padding: 0 1px;
+    color:white; }
 
 #overview {
   spacing: 12px; }
