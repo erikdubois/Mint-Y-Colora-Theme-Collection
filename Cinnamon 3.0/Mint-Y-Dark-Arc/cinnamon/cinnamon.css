@@ -341,7 +341,8 @@ StScrollBar {
 
 .system-status-icon {
   icon-size: 16px;
-  padding: 0 1px; }
+  padding: 0 1px;
+    color:white;  }
 
 #overview {
   spacing: 12px; }
@@ -1148,7 +1149,7 @@ StScrollBar {
     background-color: #6ba4e7; }
 .applet-label {
   font-weight: bold;
-  color: rgba(255, 255, 255, 0.6); }
+  color: rgba(255, 255, 255, 1); }
   .applet-label:hover, .applet-box:hover > .applet-label {
     color: #ffffff;
     text-shadow: none; }

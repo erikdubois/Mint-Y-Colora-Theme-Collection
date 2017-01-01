@@ -1237,7 +1237,7 @@ StScrollBar {
     background-color: #ef7e2c; }
 .applet-label {
   font-weight: bold;
-  color: rgba(255, 255, 255, 0.6); }
+  color: rgba(255, 255, 255, 1); }
   .applet-label:hover, .applet-box:hover > .applet-label {
     color: #ffffff;
     text-shadow: none; }
