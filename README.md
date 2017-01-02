@@ -83,7 +83,7 @@ Select them with your theme manager.
 
 ## Mint-Y-Dark-Smoke #A1A1A1
 
-![Screenshots](http://i.imgur.com/ontMW7a.jpg)
+![Screenshots](http://i.imgur.com/Llr1v7v.jpg)
 
 
 ## Mint-Y-Dark-Watusi
