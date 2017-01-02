@@ -81,6 +81,11 @@ Select them with your theme manager.
 ![Screenshots](http://i.imgur.com/qP22JuQ.jpg)
 
 
+## Mint-Y-Dark-Smoke
+
+![Screenshots](http://i.imgur.com/ontMW7a.jpg)
+
+
 ## Mint-Y-Dark-Watusi
 
 ![Screenshots](http://i.imgur.com/9KiieF6.jpg)
