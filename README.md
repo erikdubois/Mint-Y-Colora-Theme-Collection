@@ -81,7 +81,7 @@ Select them with your theme manager.
 ![Screenshots](http://i.imgur.com/qP22JuQ.jpg)
 
 
-## Mint-Y-Dark-Smoke
+## Mint-Y-Dark-Smoke #A1A1A1
 
 ![Screenshots](http://i.imgur.com/ontMW7a.jpg)
 
