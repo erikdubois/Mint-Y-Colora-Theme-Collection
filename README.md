@@ -26,7 +26,7 @@ http://erikdubois.be/category/themes/mint-y-based-themes/
 
 Or
 
-you can use one of the two scripts to install them via terminal
+you can use one of the scripts to install them via terminal
 
 Cinnamon 3.0
 
