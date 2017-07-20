@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Mint-Y-Dark-Crimson
+Comment=A dark flat theme with transparent elements
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Mint-Y-Dark-Crimson
+MetacityTheme=Mint-Y-Dark-Crimson
+IconTheme=Mint-Y
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close

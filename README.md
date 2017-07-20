@@ -2,8 +2,9 @@
 
 Since the Mint-Y theme is constantly in evolution and the same goes for Cinnamon and Linux Mint, I made this github to make a division between cinnamon versions.
 
-	Linux Mint 18 has standard cinnamon 3.0+
+	Linux Mint 18   has standard version 3.0+
  	Linux Mint 18.1 has standard version 3.2+
+ 	Linux Mint 18.2 has standard version 3.4+
 
 
 You can find your personal cinnamon version when you type the following code in the terminal
@@ -35,10 +36,22 @@ Cinnamon 3.2
 
 	theme-mint-y-colora-collection-3.2-vx.sh
 
+Cinnamon 3.4 
+
+	theme-mint-y-colora-collection-3.4-vx.sh
+
 
 You will find the themes in the hidden folder .themes in your home directory.
 Select them with your theme manager.
 
+
+#Mint-Y-Colora themes on Linux Mint 18.2
+
+
+Google+ is far easier to host the images on 
+
+
+https://plus.google.com/collection/UlExqB
 
 
 
