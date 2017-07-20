@@ -45,7 +45,7 @@ You will find the themes in the hidden folder .themes in your home directory.
 Select them with your theme manager.
 
 
-#Mint-Y-Colora themes on Linux Mint 18.2
+# Mint-Y-Colora themes on Linux Mint 18.2
 
 
 Google+ is far easier to host the images on 
@@ -55,7 +55,7 @@ https://plus.google.com/collection/UlExqB
 
 
 
-#Mint-Y-Colora Themes on Linux Mint 18.1
+# Mint-Y-Colora Themes on Linux Mint 18.1
 
 
 
